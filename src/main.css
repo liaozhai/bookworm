@@ -1,0 +1,15 @@
+#header {
+    background-color: lightgray;
+    padding: 5px;
+}
+#header > * {
+    display: inline-block;
+}
+#header .search-box > input {
+    font-size: 25px;
+    width: 500px;
+    border: none;
+}
+#content {
+    height: 100%;
+}

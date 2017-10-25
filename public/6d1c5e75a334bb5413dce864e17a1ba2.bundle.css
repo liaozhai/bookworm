@@ -1,0 +1,18 @@
+#header {
+    background-color: lightgray;
+    padding: 5px;
+}
+#header > * {
+    display: inline-block;
+}
+#header .search-box > input {
+    font-size: 25px;
+    width: 500px;
+    border: none;
+}
+#content {
+    height: 100%;
+}.search-box > input {
+    display: block;
+}
+/*# sourceMappingURL=6d1c5e75a334bb5413dce864e17a1ba2.bundle.css.map*/
