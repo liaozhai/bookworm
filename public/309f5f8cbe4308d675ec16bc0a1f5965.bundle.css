@@ -14,5 +14,13 @@
     height: 100%;
 }.search-box > input {
     display: block;
+}.written-form,
+.phonetic-forms {
+    display: inline-block;
 }
-/*# sourceMappingURL=6d1c5e75a334bb5413dce864e17a1ba2.bundle.css.map*/
+.written-form {
+    font-family: KaiTi;
+    font-size: 36px;
+}
+
+/*# sourceMappingURL=309f5f8cbe4308d675ec16bc0a1f5965.bundle.css.map*/
